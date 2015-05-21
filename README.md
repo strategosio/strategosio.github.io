@@ -1,1 +1,2 @@
-# strategosio.github.io
+# continuous
+Continuous Self-Service Integration Deployment and Validation
